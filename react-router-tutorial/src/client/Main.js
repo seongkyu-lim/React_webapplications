@@ -5,7 +5,7 @@ import Menu from "../components/Menu";
 
 const Main = () => (
   <BrowserRouter>
-    <Menu />
+    <App />
   </BrowserRouter>
 );
 
